@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<a href="https://app.daily.dev/luongquockhang"><img src="https://api.daily.dev/devcards/1413284059f34aa4b84c4ad27db4a92c.png?r=fd8" width="400" alt="LuongQuocKhang's Dev Card"/></a>
+<a href="https://app.daily.dev/luongquockhang"><img src="https://api.daily.dev/devcards/v2/EkafqHrC7NKEIdnsEOS2x.png?type=wide&r=y1f" width="652" alt="Quoc Khang's Dev Card"/></a>
 
 <!--
 **LuongQuocKhang/LuongQuocKhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/LuongQuocKhang/LuongQuocKhang/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuongQuocKhang/LuongQuocKhang/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/LuongQuocKhang/LuongQuocKhang/output-3d-contrib/day.svg" />
-	</picture>
+<h1 align="center">Hi 👋, I'm Lương Quốc Khang</h1>
+<h3 align="center">A passionate .NET Developer from Vietnam</h3>
+
+- 🔭 I’m currently working at **Mantu**
+
+- 🌱 I’m currently learning **System Design**
+
+- 👨‍💻 All of my projects are available at [https://github.com/LuongQuocKhang?tab=repositories](https://github.com/LuongQuocKhang?tab=repositories)
+
+- 💬 Ask me about **.NET developer**
+
+- 📫 How to reach me **QuocKhangLuong1012@gmail.com**
+
+- 📄 Know about my experiences [4 years](4 years)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/luongquockhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luongquockhang" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luongquockhang&show_icons=true&locale=en" alt="luongquockhang" /></p>
